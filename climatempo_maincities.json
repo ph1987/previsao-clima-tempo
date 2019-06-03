@@ -1,0 +1,69 @@
+{
+  "cities": [
+    {
+      "name": "Rio de Janeiro",
+      "url": "cidade/321/riodejaneiro-rj",
+      "region": "Sudeste"
+    },
+    {
+      "name": "São Paulo",
+      "url": "cidade/558/saopaulo-sp",
+      "region": "Sudeste"
+    },
+    {
+      "name": "Brasília",
+      "url": "cidade/61/brasilia-df",
+      "region": "Centro-Oeste"
+    },
+    {
+      "name": "Belo Horizonte",
+      "url": "cidade/107/belohorizonte-mg",
+      "region": "Sudeste"
+    },
+    {
+      "name": "Porto Alegre",
+      "url": "cidade/363/portoalegre-rs",
+      "region": "Sul"
+    },
+    {
+      "name": "Florianópolis",
+      "url": "cidade/377/florianopolis-sc",
+      "region": "Sul"
+    },
+    {
+      "name": "Curitiba",
+      "url": "cidade/271/curitiba-pr",
+      "region": "Sul"
+    },
+    {
+      "name": "Salvador",
+      "url": "cidade/56/salvador-ba",
+      "region": "Nordeste"
+    },
+    {
+      "name": "Manaus",
+      "url": "cidade/25/manaus-am",
+      "region": "Norte"
+    },
+    {
+      "name": "Fortaleza",
+      "url": "cidade/60/fortaleza-ce",
+      "region": "Nordeste"
+    },
+    {
+      "name": "Recife",
+      "url": "cidade/259/recife-pe",
+      "region": "Nordeste"
+    },
+    {
+      "name": "Goiânia",
+      "url": "cidade/88/goiania-go",
+      "region": "Centro-Oeste"
+    }, 
+    {
+      "name": "Belém",
+      "url": "cidade/232/belem-pa",
+      "region": "Norte"
+    }
+  ]
+}
